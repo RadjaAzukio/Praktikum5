@@ -72,4 +72,5 @@ lagi = ''
 ```
 - Hasil dari program yang telah dibuat ditampilkan/diekspresikan dan akan jadi seperti ini ketika dijalankan:
 ### Tampilan Program
+```
 ![Gambar1](pk5/5.4.pmg)

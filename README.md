@@ -69,7 +69,7 @@ lagi = ''
             overall = nm + im + tg + ut + us + ak + ov
             print(overall)
 
-            break
+        break
 ```
 - Hasil dari program yang telah dibuat ditampilkan/diekspresikan dan akan jadi seperti ini ketika dijalankan:
 ### Tampilan Program

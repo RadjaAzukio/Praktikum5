@@ -76,4 +76,4 @@ lagi = ''
 ![Gambar1](pk5/5.4.png)
 
 ## Flowchart
-![Gambar1](pk5/5.5.JPG)
+![Gambar1](pk5/5.5.jpg)
